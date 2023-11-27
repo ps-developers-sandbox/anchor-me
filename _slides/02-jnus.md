@@ -1,9 +1,10 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to Jasper Nygaard's slide deck!"
 ---
 
-Caption here
+Automate all the things!
+
 
 ![skatetocat](https://octodex.github.com/images/skatetocat.png)
 {: .center}
