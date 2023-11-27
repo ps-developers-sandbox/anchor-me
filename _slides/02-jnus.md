@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to Jasper Nygaard's slide deck!"
+title: "Welcome to jnus's slide deck!"
 ---
 
 Automate all the things!
