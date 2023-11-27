@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to Ioana's slide deck!"
 ---
 
-Caption here
+Think before you code!
 
 ![Robotocat](https://octodex.github.com/images/Robotocat.png)
 {: .center}
